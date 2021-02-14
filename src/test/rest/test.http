@@ -1,0 +1,10 @@
+# -------------------------------------------
+# REST API Request Template
+# -------------------------------------------
+
+### 1. Health Check
+GET http://{{HOST}}/
+
+### 2. whoami
+GET http://{{HOST}}/whoami
+
